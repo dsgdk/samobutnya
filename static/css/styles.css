@@ -1,0 +1,34 @@
+body {
+    font-family: 'Gotham-Light', sans-serif;
+    font-size: 35px;
+}
+
+.container {
+    max-width: 1650px;
+    padding: 0 - 15px;
+    margin: 0 auto;
+}
+
+.header {
+
+}
+
+.welcome {
+    min-height: 718px;
+    /* height: 100vh; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #1c1c1c;
+    
+    background-image: url("/static/images/header-bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.logo {
+    width: 1015.34px;
+    height: 282.8px;
+}

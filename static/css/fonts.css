@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Gotham-Book';
+    src: url('/static/fonts/Gotham_Book.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham-Light';
+    src: url('/static/fonts/Gotham_Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
