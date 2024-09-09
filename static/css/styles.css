@@ -9,6 +9,10 @@ body {
     margin: 0 auto;
 }
 
+p {
+    color: #344EAD;
+}
+
 .header {
 
 }
@@ -31,4 +35,14 @@ body {
 .logo {
     width: 1015.34px;
     height: 282.8px;
+}
+
+.about {
+    min-height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    background-image: url("static/images/texture-bg.png");
 }
