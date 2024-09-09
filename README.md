@@ -1,4 +1,4 @@
-# samobutnya - site
+# samobutnya
 
 ## Description
 Online store created for the brand "samobutnya".
