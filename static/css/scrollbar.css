@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+    width: 12px; /* Ширина смуги прокрутки */
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Фон треку */
+    border-radius: 10px;  /* Закруглені кути */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888; /* Колір смуги прокрутки */
+    border-radius: 10px;    /* Закруглені кути */
+    border: 2px solid #f1f1f1; /* Додатковий бордер для відступу */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555; /* Колір при наведенні */
+}
+
+::-webkit-scrollbar-thumb {
+    transition: background-color 0.3s;
+}
