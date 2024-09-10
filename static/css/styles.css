@@ -1,6 +1,10 @@
 body {
     font-family: 'Gotham-Light', sans-serif;
     font-size: 35px;
+
+    background-image: url("/static/images/texture-bg.png");
+    background-size: cover;
+    background-position: center;
 }
 
 .container {
@@ -44,6 +48,24 @@ p {
     align-items: center;
 
     text-align: center;
-    background-image: url("static/images/texture-bg.png");
 }
 
+.photo {
+    min-height: 1124px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo__b {
+    width: 1612px;
+    height: 294px;
+    
+    margin: 31px;
+    background-color: #344EAD;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
